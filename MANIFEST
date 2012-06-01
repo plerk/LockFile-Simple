@@ -11,3 +11,4 @@ t/basic.t                 Basic tests
 t/simple.t                Test OO interface
 t/user.t                  Test user-defined settings
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
